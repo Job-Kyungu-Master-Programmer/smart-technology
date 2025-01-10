@@ -1,1 +1,1 @@
-# smart-technology
+# Smart-technology
